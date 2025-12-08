@@ -1,4 +1,4 @@
-
+# Script to create Dataset which will be later used to evaluate the model and metrics for machine translation of idioms.
 import pandas as pd
 import os
 import re
