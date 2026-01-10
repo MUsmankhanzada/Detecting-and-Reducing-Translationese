@@ -165,3 +165,12 @@ This dataset is intended for:
 This dataset emphasizes **quality over full automation**.  
 Human linguistic expertise was essential, particularly for Urdu idioms, where cultural nuance cannot be reliably captured by a single model.
 
+## Acknowledgements
+
+This project uses the **English-German Database of Idiom Norms (DIN)** for creating **`base.xlsx`**.
+* **Authors:** Sara D. Beck & Andrea Weber
+* **Source:** University of Tübingen
+* **Link:** [DIN Project Page](https://uni-tuebingen.de/en/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-andrea-weber/staff/dr-sara-d-beck/din/)
+
+If you use this data in academic work, please cite the associated research:
+> Beck, S. D., & Weber, A. (2016). Bilingual and Monolingual Idiom Processing Is Cut from the Same Cloth: The Role of the L1 in Literal and Figurative Meaning Activation. *Frontiers in Psychology*, 7, 1350.
