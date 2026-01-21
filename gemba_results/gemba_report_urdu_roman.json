@@ -1,0 +1,11 @@
+{
+    "language": "ur-roman",
+    "model": "gpt-4o-mini",
+    "method": "GEMBA-DA",
+    "averages": {
+        "A_Roman Idiomatic": 79.50342466,
+        "B_Roman Descriptive": 84.8630137,
+        "C_Roman Literal": 79.14383562
+    },
+    "win_rate_A_vs_B": 0.11643835616438356
+}

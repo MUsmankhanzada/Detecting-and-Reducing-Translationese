@@ -1,0 +1,11 @@
+{
+    "language": "de",
+    "model": "gpt-4o-mini",
+    "method": "GEMBA-DA",
+    "averages": {
+        "A_Figurative": NaN,
+        "B_Literal": NaN,
+        "C_Incorrect": NaN
+    },
+    "win_rate_A_vs_B": 0.42333333333333334
+}

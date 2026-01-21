@@ -1,0 +1,13 @@
+{
+    "language": "ur-native",
+    "averages": {
+        "QE_A_Native Idiomatic": 0.9625415597876458,
+        "QE_B_Native Descriptive": 0.9901603793036448,
+        "QE_C_Native Literal": 0.9446422681212425
+    },
+    "win_rates": {
+        "A_vs_B": 0.21232876712328766,
+        "A_vs_C": 0.613013698630137,
+        "B_vs_C": 0.8527397260273972
+    }
+}

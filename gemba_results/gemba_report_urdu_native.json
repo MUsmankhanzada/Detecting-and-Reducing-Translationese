@@ -1,0 +1,11 @@
+{
+    "language": "ur-native",
+    "model": "gpt-4o-mini",
+    "method": "GEMBA-DA",
+    "averages": {
+        "A_Native Idiomatic": 80.75342466,
+        "B_Native Descriptive": 84.33219178082192,
+        "C_Native Literal": 78.19587629
+    },
+    "win_rate_A_vs_B": 0.2568493150684932
+}

@@ -1,0 +1,13 @@
+{
+    "language": "ur-roman",
+    "averages": {
+        "QE_A_Roman Idiomatic": 0.896884165398062,
+        "QE_B_Roman Descriptive": 0.9570533860832044,
+        "QE_C_Roman Literal": 0.909810596183963
+    },
+    "win_rates": {
+        "A_vs_B": 0.18835616438356165,
+        "A_vs_C": 0.4212328767123288,
+        "B_vs_C": 0.7773972602739726
+    }
+}

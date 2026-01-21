@@ -1,0 +1,20 @@
+{
+    "language": "ur-roman",
+    "note": "MetricX scores are Lower-is-Better",
+    "win_rates": {
+        "A_beats_B": 0.20205479452054795,
+        "A_beats_C": 0.4726027397260274,
+        "B_beats_C": 0.815068493150685
+    },
+    "averages": {
+        "Score_QE_A": 6.609325015381591,
+        "Score_QE_B": 4.946666269677959,
+        "Score_QE_C": 6.501082058638742,
+        "Score_B_Ref_A": 4.382734800038272,
+        "Score_C_Ref_A": 6.142590513784591,
+        "Score_A_Ref_B": 5.695628532808121,
+        "Score_C_Ref_B": 5.951923512432673,
+        "Score_A_Ref_C": 6.058272046177355,
+        "Score_B_Ref_C": 4.4291239086895775
+    }
+}
